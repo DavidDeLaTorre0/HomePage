@@ -1,7 +1,7 @@
 # HomePage
 Curso Platzi -- TailWind CSS 
 
-#TailWind CSS Instalación:
+# TailWind CSS Instalación
 En este proyecto instalé TailWind CSS como Using PostCSS, puedes ver más instalaciones en la documentación de TailWind CSS.
 
 # Descagar modulos
