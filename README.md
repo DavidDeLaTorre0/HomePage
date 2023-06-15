@@ -1,12 +1,14 @@
 # TailWind CSS Instalación
 En este proyecto instalé TailWind CSS como Using PostCSS, puedes ver más instalaciones en la documentación de TailWind CSS.
 
-# Descagar modulos
-Para descargar los modulos que necesita este proyecto, ejecuta el siguiente comando en la terminal de tu editor de código:
+# Descargar módulos
+Para descargar los módulos que necesita este proyecto, ejecuta el siguiente comando en la terminal de tu editor de código:
   - npm install -D tailwindcss postcss autoprefixer
 
+(Recomiendo que si la instalación noi)
+
 # Archivo de configuración
-npx tailwindcss init
+  -npx tailwindcss init
                     Se ejecuta el siguiente comando npx tailwindcss init para crear el archivo de configuracion o de plantillas tailwind.config.js colocando la siguiente configuración:
                                 module.exports = {
                                 content: ["./public/index.html", "./src/**/*.{html,js}"],
