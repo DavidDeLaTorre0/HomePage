@@ -37,9 +37,8 @@ npx tailwindcss init
         Las rutas en este caso serian
             npx tailwindcss -i ./src/css/tailwind.css -o ./public/css/tailwind.css --watch
 
-        #¿Que hace esto?
+        ¿Que hace esto?
             genera un build o un contructor desde  src/css/tailwind.css a nuestra carpeta public/css/tailwind.css
-            Nos importa 
---------------------------------------------------------------------------------------------
-
-    Y ya estaria instalado y configurado, ya se podría usar clases de tailwind en el index
+            
+       
+        Ya se podría usar clases de tailwind en el index
